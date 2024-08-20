@@ -60,8 +60,8 @@ Participated in a summer school focusing on nuclear research.
 
 ## Involvement
 
-- **Project Lead @ Mindspar Bioinnovation Challenge, Regional Centre for Biotechnology, New Delhi (_January 2021 - March 2021_)**
-- **GWAS and PRS Analysis for Alzheimer’s And Parkinson’s Disease @ Genspace NYC and NIH-National Institute of Aging (_March 2021 - March 2021_)**
+- **Project Lead** @ Mindspar Bioinnovation Challenge, Regional Centre for Biotechnology, New Delhi (_January 2021 - March 2021_)
+- **GWAS and PRS Analysis for Alzheimer’s And Parkinson’s Disease** @ Genspace NYC and NIH-National Institute of Aging (_March 2021 - March 2021_)
 
 ## Additional Information
 
