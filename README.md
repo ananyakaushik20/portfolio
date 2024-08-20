@@ -1,5 +1,3 @@
-Here is your resume in GitHub Markdown format:
-
 # Ananya Kaushik
 
 Cambridge, UK  
