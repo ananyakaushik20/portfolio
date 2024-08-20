@@ -1,20 +1,74 @@
-# Data Scientist
+Here is your resume in GitHub Markdown format:
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# Ananya Kaushik
+
+Cambridge, UK  
++44 7436712507 | [ak2470@cantab.ac.uk](mailto:ak2470@cantab.ac.uk)  
+GitHub: [github.com/ananyakaushik20](http://github.com/ananyakaushik20)  
+LinkedIn: [linkedin.com/in/ananya-kaushik-508b731a3/](http://linkedin.com/in/ananya-kaushik-508b731a3/)
+
+## Bioinformatics Engineer
+
+#### Technical Skills: 
+- **Programming Languages**: R, Python, Bash
+- **High Throughput Sequencing**: WGS/WXS, bulk RNA-seq, sc-RNA-seq, Microarray, ChIP-seq, ATAC-seq
+- **Bioinformatics Analysis**: GWAS, PRS, Computational Drug Design, Protein-Ligand Docking, Gene Co-Expression, Network Analysis, Sequence Assembly & Alignment, Survival Analysis, Mutation and genetic aberration analysis, Motif and domain analysis
+- **Clinical Genetics**: Variant Analysis, Annotation, Interpretation, and Classification, Genetic Testing and Genetic Counselling (UKBB, 100K Genomes, DDD, ACMG)
+- **Laboratory**: Microscopy, Spectrophotometry, Protein separation techniques, Protein assays, ELISA, Cell Culture, DNA/RNA extraction
+- **Tools & Software**: Snakemake, Nextflow, Docker, Singularity, Git, ELNs, APIs, HPC, SQL
+- **Statistics and Machine Learning**: Biostatistics, UMAP, PCA, t-SNE, Dimensionality Reduction, Clustering, Linear Regression, RandomForest, DecisionTree, SVM
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- **MPhil in Genomic Medicine** | University of Cambridge (_2022 - 2023_)
+  - Masters Research Project: Differential gene expression profiles across Brain Regions and Progression Stages in Alzheimer's Disease
+  - _High Pass_
+
+- **B.Sc (Honours) in Biological Sciences** | University of Delhi (_2019 - 2022_)
+  - Minor in Statistics
+  - Modules: Computational Biology, Genetics, Bioinformatics, etc.
+  - _1:1 Grade_
+
+- **PGCert in Bioinformatics and Computational Biology** | University of Delhi (_2020 - 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**MPhil Research Placement @ University of Cambridge (_October 2022 - October 2023_)**  
+Performed bioinformatics analysis at the Medical Genetic Department, EMBL-EBI, Wellcome Sanger Institute. Responsible for running and troubleshooting NGS analysis pipelines in a high-performance computing environment.
+
+**UG Research Assistant @ CSIR-IGIB (Institute of Genomics and Integrative Biology) (_September 2021 - January 2022_)**  
+Curated viral genotype data for an open-access Hep-C viral drug resistance knowledgebase and portal. Analysed population data and genetic variants in viral genomes of different Hep C strains causing drug resistance.
+
+**Research Assistant - Chemogenetics Lab @ Ashoka University (_August 2021 - March 2022_)**  
+Conducted a systematic review of emerging gene therapy and drug delivery approaches for Neurodegenerative Diseases like Alzheimer's, Parkinson's, and Huntington's. Shadowed lab staff in molecular biology laboratory techniques.
+
+**Bioinformatics Team - Data Scientist and Pipeline Developer @ STEM-Away, CA (_June 2021 - September 2021_)**  
+Conducted Differential Gene Expression Analysis and functional analysis on Lung Cancer and Colorectal Cancer sequencing data. Developed an end-to-end analysis R pipeline and published it as an open-source R shiny web application.
+
+**Research Assistant @ University of Delhi (_June 2020 - September 2021_)**  
+Performed in-silico drug discovery and design for Cardiovascular Disease using a pipeline for toxicity prediction, active site prediction, protein-ligand docking, and presented multiple actionable drug targets.
+
+**Summer School Trainee @ CERN (European Centre for Nuclear Research) - CMS (_June 2017 - July 2017_)**  
+Participated in a summer school focusing on nuclear research.
+
+## Projects
+
+- **Machine Learning For Drug Discovery**
+- **Computer Vision for Medical Imaging**
+- **Single Cell Omics Exploratory Analysis**
+
+## Involvement
+
+- **Project Lead @ Mindspar Bioinnovation Challenge, Regional Centre for Biotechnology, New Delhi (_January 2021 - March 2021_)**
+- **GWAS and PRS Analysis for Alzheimer’s And Parkinson’s Disease @ Genspace NYC and NIH-National Institute of Aging (_March 2021 - March 2021_)**
+
+## Additional Information
+
+- **GitHub**: [github.com/ananyakaushik20](http://github.com/ananyakaushik20)
+- **LinkedIn**: [linkedin.com/in/ananya-kaushik-508b731a3/](http://linkedin.com/in/ananya-kaushik-508b731a3/)
+
+---
+
+This format should provide a well-structured and easy-to-read resume in GitHub Markdown.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -31,25 +85,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
 - [Data Science Blog](https://medium.com/@shawhin)
